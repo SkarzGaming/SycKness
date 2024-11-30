@@ -1,0 +1,13 @@
+{
+	"areaName": "RestrictedAreaMountainBasePortal1",
+	"PRABoxes": [
+        [    
+            [27, 5.2, 11],
+            [108, 0, 0],
+			[  10035.2, 532.702, 11974.1]
+        ]
+    ],
+	"safePositions3D": [
+		[  11182.1, 6.89372, 13087.3]
+	]
+}

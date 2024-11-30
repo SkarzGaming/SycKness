@@ -1,0 +1,13 @@
+{
+	"areaName": "RestrictedAreaChernSeaBasePortal4",
+	"PRABoxes": [
+        [    
+            [27, 5.2, 11],
+            [108, 0, 0],
+			[  6952.74, 31.0508, 2252.17]
+        ]
+    ],
+	"safePositions3D": [
+		[  6872.5, 31.0508, 2243.14]
+	]
+}
